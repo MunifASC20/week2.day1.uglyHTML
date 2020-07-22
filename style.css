@@ -1,0 +1,66 @@
+html{
+    background-color: rgb(53,53,53)
+}
+
+.top{
+    background-color:rgb(53,53,53);
+}
+
+body{
+    color:whitesmoke;
+}
+
+header{
+    font-size:72px;
+    text-align:center;
+}
+
+h3{
+    font-size:26px;
+    text-align:center;
+}
+
+.top img{
+   width:540px;
+   position: relative;
+   left:470px   
+}
+
+.watch_container{
+    background-color:rgb(53,53,53);
+    border-style:solid;
+    border-color: #FDEFA6;
+    border-width: 2px;
+    border-radius: 13px;
+    margin-bottom:15px;
+    margin-left:50px;
+    margin-right:50px;
+    padding:16px; 
+    font-family:Unica One;            
+}
+
+.watch_container img{
+    height:200px;
+    margin:10px;
+    float:left;
+}
+
+footer{
+    text-align:center;
+    font-size:30px;
+    margin-top:25px;
+    margin-bottom:25px;
+    font-family:Unica One;
+}
+
+
+
+
+
+
+
+
+
+
+
+
